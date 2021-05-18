@@ -1,0 +1,1 @@
+web: gunicorn shootingStar.wsgi --log-file -

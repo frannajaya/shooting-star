@@ -1,2 +1,2 @@
-# shoting-star
+# shooting-star
 unknown
